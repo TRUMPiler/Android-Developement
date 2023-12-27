@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395151383366",
+    "project_id": "login-c307c",
+    "storage_bucket": "login-c307c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395151383366:android:c83b56aa2556b6bcbf6347",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-WluI3IA5qCnIUmiz6Ez4P4c0LFlHwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
